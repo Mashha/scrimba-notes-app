@@ -1,6 +1,6 @@
-## Notes app project
+# Notes app project
 
-# Introduction 
+## Introduction 
 
 I was given basic code already and the point of this exercise was to deal with already existing code and adding some new features/functionalities to it. 
 
